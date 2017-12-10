@@ -9,3 +9,6 @@ Application de chat android codé en Java.
 * Icône de l'application
 
 ## Connexion 
+
+## Icône de l'application
+![Simplon.co](https://github.com/MarineDurand/tp-android/blob/master/25181584_887548898081003_2090576160_n.png)
