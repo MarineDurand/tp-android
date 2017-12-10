@@ -2,4 +2,8 @@
 # Chat Android
 Application de chat android codé en Java.
 
-## Fonctionnalités
+## Parties effectuées
+* Partie connexion avec enregistrement du nom et de l'email.
+* Messages wrappés par une CardView.
+* Avatars.
+* Badge Play Store
