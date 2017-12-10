@@ -7,3 +7,5 @@ Application de chat android codé en Java.
 * Messages wrappés par une CardView.
 * Avatars.
 * Badge Play Store
+
+## Connexion 
