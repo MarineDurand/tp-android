@@ -9,6 +9,10 @@ Application de chat android codé en Java.
 * Icône de l'application
 
 ## Connexion 
+![Simplon.co]https://github.com/MarineDurand/tp-android/blob/master/25286177_887554191413807_612394550_o.png)
+Quand l'utilisateur n'a jamais saisie ses informations il lui est affiché cette interface sinon l'interface des messages.
+
+## Messages wrappés par une CardView et avatars.
 
 ## Icône de l'application
 ![Simplon.co](https://github.com/MarineDurand/tp-android/blob/master/25181584_887548898081003_2090576160_n.png)
